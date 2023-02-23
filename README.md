@@ -7,7 +7,7 @@ The dataset was contained into two excel files. One file contained the *sales da
 After validating the data and ensuring optimum data quality, both tables were imported into Power BI.
 
 ## First Step 
--	Creating key measures such as R value, F value, M value using DAX formulas.
+-	Created key measures such as R value, F value, M value using DAX formulas.
 
 **R value** represents the difference between the customers last purchase date and the current date.
 
@@ -21,7 +21,7 @@ After validating the data and ensuring optimum data quality, both tables were im
 
 ![M VALUE DAX](https://user-images.githubusercontent.com/115559534/220897177-17176e30-fa3f-4331-be61-97b9fdcf2d2d.jpg)
 
-- Creating a new table called “**RFM Table**” using the “*SUMMARIZE*” DAX function, with R, F and M values as columns.
+- Created a new table called “**RFM Table**” using the “*SUMMARIZE*” DAX function, with R, F and M values as columns.
 
 ![RFM TABLE DAX](https://user-images.githubusercontent.com/115559534/220897252-5512e2b7-2443-49fa-afc7-b41d452562f6.jpg)
 
@@ -48,7 +48,17 @@ After validating the data and ensuring optimum data quality, both tables were im
 -	Created a relationship between the segment table and the RFM Table using the RFM score column present in both.
 
 ## Fifth Step
-- Designing the dashboard using suitable visuals e.g. scatterplot, bar chart, multi row cards. I made sure that each visual answered potential business questions that may arise.
+- Designed the dashboard using suitable visuals e.g. scatterplot, bar chart, multi row cards. I made sure that each visual answered potential business questions that may arise.
+
+![RFM ANALYSIS PRACTICE1_Page_1](https://user-images.githubusercontent.com/115559534/220898836-14a749be-8c34-4978-8824-5cafa653b853.jpg)
+
+![RFM ANALYSIS PRACTICE1_Page_2](https://user-images.githubusercontent.com/115559534/220898869-d53fb9f7-94b2-457f-8241-df2efb0c26bf.jpg)
+
+![RFM ANALYSIS PRACTICE1_Page_3](https://user-images.githubusercontent.com/115559534/220898900-c61ce6f8-14a5-4bb0-a287-3ec2a70060ae.jpg)
+
+![RFM ANALYSIS PRACTICE1_Page_4](https://user-images.githubusercontent.com/115559534/220898931-9b02b347-8eb0-4123-a907-d1fa973d7e0c.jpg)
+
+![RFM ANALYSIS PRACTICE1_Page_5](https://user-images.githubusercontent.com/115559534/220898972-df047ed4-5866-4a2c-88d3-37f8a583fa4b.jpg)
 
 According to Techtarget.com, RFM analysis can be used to identify clusters of customers with similar values. This is called customer segmentation, this process is used to produce targeted direct marketing campaigns tailored to specific customer types. It enables businesses to use email or direct mail marketing to target messages that a large swath of specific kinds of customers are more likely to respond to.
 
