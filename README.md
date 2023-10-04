@@ -60,11 +60,14 @@ After validating the data and ensuring optimum data quality, both tables were im
 
 ![RFM ANALYSIS PRACTICE1_Page_5](https://user-images.githubusercontent.com/115559534/220898972-df047ed4-5866-4a2c-88d3-37f8a583fa4b.jpg)
 
-According to Techtarget.com, RFM analysis can be used to identify clusters of customers with similar values. This is called customer segmentation, this process is used to produce targeted direct marketing campaigns tailored to specific customer types. It enables businesses to use email or direct mail marketing to target messages that a large swath of specific kinds of customers are more likely to respond to.
+## INSIGHTS
 
-# Limitations of RFM Model
-Using RFM modelling can provide valuable insights about customers, but it does not consider many other factors about the customer. In-depth targeted marketing may use “type of item purchased” as a factor. Customer demographics such as age and sex are not covered in RFM analysis either. 
+- Customers categorised as **“Potential Loyalist” & “Promising”** make up **30%** of the company’s customer base, while those categorized as **“Cannot lose them”, “At risk”, “About to sleep” & ”Need Attention”** make up **32%** of the customer base.
 
-Additionally, some businesses may use RFM analysis as an excuse to bombard high-ranking customers with messages and thus reduce response rates on campaigns that could otherwise be highly effective. 
+- Customers segmented as **"Promising”** shop with the company just **once per year** on average, with their most recent purchase occurring on average, **94 days ago**. Additionally, the maximum amount spent by a customer in this category can be as high as $242, with a decent average spend per transaction of $13.84.
 
-On the other hand, it can cause marketers to neglect customers with low rankings even though many of them may be worth cultivating. For example, your RFM model may fail to account for the impact of past promotions or seasonality on RFM analysis. Likewise, a customer may have very little activity with your brand one month, yet be ready to engage in purchasing behaviour the following month due to a birthday or anniversary.
+- Customers segmented as **"At risk"** shop with the company **four times per year** on average, with their most recent purchase occurring on average, **281 days ago**. While the maximum amount spent by a customer in this category can be as high as $137, the average spend per transaction is $10.90.
+
+- Customers segmented as **"Need Attention"** shop with the company **twice per year** on average, with their most recent purchase occurring on average, **81 days ago**. While the maximum amount spent by a customer in this category can be as high as $90, the average spend per transaction is $10.37.
+
+  
