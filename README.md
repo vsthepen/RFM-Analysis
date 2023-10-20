@@ -70,4 +70,26 @@ After validating the data and ensuring optimum data quality, both tables were im
 
 - Customers segmented as **"Need Attention"** shop with the company **twice per year** on average, with their most recent purchase occurring on average, **81 days ago**. While the maximum amount spent by a customer in this category can be as high as $90, the average spend per transaction is $10.37.
 
-  
+  ## RECOMMENDATIONS
+
+  #### Potential Loyalists and Promising Customers (30% of the customer base):
+
+  - These customers have shown the potential for loyalty, therefore we should consider implementing a customer loyalty program. e.g, Offer rewards, discounts, or exclusive access to encourage them to shop more frequently.
+ 
+  - We can keep them engaged by sending them personalized recommendations, exclusive offers, and updates on new products to encourage repeat purchases.
+ 
+  - Since some of them have a high maximum spend, we can target them with premium or high-value product recommendations.
+
+#### Cannot Lose Them, At Risk, About to Sleep, and Need Attention Customers (32% of the customer base):
+
+- We should prioritize re-engagement campaigns for these customers. Send out personalized emails or notifications to remind them of the company's products and encourage them to come back.
+
+- Tailor campaigns based on their shopping behavior. For example, **"At Risk"** customers may likely respond well to win-back offers, while **"Need Attention"** customers may appreciate product recommendations.
+
+- We can encourage **"At Risk" & "Need Attention"** customers to shop more often by offering incentives for multiple purchases.
+
+- Cross-sell or upsell relevant products, bundle items, or offer discounts on higher-value purchases to help increase average spend per transaction.
+
+- Create personalized offers based on their purchase history, such as recommending complementary products or items they've shown interest in.
+
+
